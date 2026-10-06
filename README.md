@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alfin 👋
 
-<!--
-**alfinvv95/alfinvv95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year B.Tech student specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+### 🚀 Currently learning
+- C Programming
+- Python
+- Data Structures & Problem Solving
+- Web Development
+- Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+- Task Manager Web Application
+- LeetCode Problem Solving
+- More projects coming soon...
+
+### 🎯 Goals
+I'm currently focused on building my programming fundamentals,
+working on practical projects, and learning more about AI and ML.
+
+### 📫 Connect with me
+- LinkedIn:https://www.linkedin.com/in/alfin-v-v-463874434/?isSelfProfile=true
